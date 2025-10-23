@@ -38,9 +38,6 @@ Prerequisites:
 - For GPU: NVIDIA drivers + CUDA-compatible PyTorch (optional)
 
 1) Clone and create a virtual environment
-- python -m venv .venv
-- On macOS/Linux: source .venv/bin/activate
-- On Windows: .venv\Scripts\activate
 
 2) Install PyTorch (CPU or GPU)
 - follow https://pytorch.org/get-started/locally/ to pick the right command 
