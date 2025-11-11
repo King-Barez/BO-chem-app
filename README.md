@@ -1,4 +1,4 @@
-# Mechanochemistry of Sulfur Ylides: ultra-fast and practical Corey-Chaykovsky reaction enabled by Bayesian Optimization
+# Machine Learning–Assisted Development of a Fast Mechanochemical Johnson–Corey–Chaykovsky Reaction
 
 Gradio-based applications for Bayesian Optimization of chemical experiments. The repo contains:
 - A single-objective app (yield vs PMI scalarization) in BO-chem-modular
